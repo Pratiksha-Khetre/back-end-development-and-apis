@@ -1,0 +1,13 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A module for checking whether a number is prime",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "Pratiksha",
+  "type": "commonjs"
+}
